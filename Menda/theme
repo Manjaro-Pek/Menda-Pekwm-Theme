@@ -284,3 +284,14 @@ Status {
         Text = "#707070"
 	Pad = "2 2 10 10"
 }
+
+WorkspaceIndicator {
+	Font = "$FONT"
+	Background = "Solid #222222"
+	Workspace = "SolidRaised #8CBC65 #94C76B #89C757 1  1"
+	WorkspaceActive = "Solid #222222"
+	Text = "#8CBC65"
+	EdgePadding = "5"
+	WorkspacePadding = "5"
+}
+
